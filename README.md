@@ -1,4 +1,7 @@
-## Eaí ✌ eu sou o Lucas , graduando em Engenharia de Computação!
+## Eaí ✌ eu sou o Lucas!
+🎓 Computer engineering student at Insper
+🥇 Gold Medalist at OBI 2017
+
 <div align="center">
   <a href="https://github.com/lucasnov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnov&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
