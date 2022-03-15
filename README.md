@@ -1,5 +1,5 @@
 ## Eaí ✌ eu sou o Lucas!
-🎓 Computer engineering student at Insper
+🎓 Computer engineering student at Insper<br />
 🥇 Gold Medalist at OBI 2017
 
 <div align="center">
