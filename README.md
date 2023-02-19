@@ -1,4 +1,4 @@
-## Wello Horld
+## Hello Fucking World 🌎💻
 🎓 Computer engineering student at Insper<br />
 🥇 Gold Medalist at OBI 2017
     
