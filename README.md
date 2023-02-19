@@ -1,4 +1,4 @@
-## Eaí ✌ eu sou o Lucas!
+## Wello Horld
 🎓 Computer engineering student at Insper<br />
 🥇 Gold Medalist at OBI 2017
     
